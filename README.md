@@ -1,3 +1,3 @@
 # Python Practice 
 
-sfsd
+This my first GitHub repo.
